@@ -4,26 +4,11 @@ It was written in Java language and there is two project inside of it, the one i
 <hr>
 You can see some pictures.
 <hr>
-Register
-<hr>
-![register](https://user-images.githubusercontent.com/12279132/31767767-17a326ba-b4d5-11e7-9abf-c51a56b654e7.png)
-Login
-<hr>
-![login](https://user-images.githubusercontent.com/12279132/31767765-17654034-b4d5-11e7-9d8d-8b5a7380e4d6.png)
-MainMenu
-<hr>
-![mainmenu](https://user-images.githubusercontent.com/12279132/31767766-17849de4-b4d5-11e7-9422-5cfb86fa9d25.png)
-SendMail
-<hr>
-![send1](https://user-images.githubusercontent.com/12279132/31767768-17c17408-b4d5-11e7-8a65-f75ab203c1b4.png)
-![send2](https://user-images.githubusercontent.com/12279132/31767769-17dfa9e6-b4d5-11e7-98a3-72df153fc9b3.png)
- Inbox
-<hr>
-![inbox](https://user-images.githubusercontent.com/12279132/31767764-1738a330-b4d5-11e7-8b90-b432b92b2420.png)
 
 
-
-
-
-
-
+![register](https://user-images.githubusercontent.com/12279132/31767853-70bee2e8-b4d5-11e7-9259-e9145a047743.png)
+![login](https://user-images.githubusercontent.com/12279132/31767851-7079ccc6-b4d5-11e7-9c6e-a738b32c29bd.png)
+![mainmenu](https://user-images.githubusercontent.com/12279132/31767852-709bfbac-b4d5-11e7-9b07-fbb04015cf86.png)
+![send1](https://user-images.githubusercontent.com/12279132/31767854-70e1d74e-b4d5-11e7-8062-660c9512364f.png)
+![send2](https://user-images.githubusercontent.com/12279132/31767855-71057866-b4d5-11e7-8369-71ba7134d720.png)
+![inbox](https://user-images.githubusercontent.com/12279132/31767849-7056f16a-b4d5-11e7-9a40-11e28a9f78cd.png)
